@@ -13,7 +13,7 @@ Focus Lock is a productivity tool designed to **lock your Windows computer scree
 - ⏱️ Emergency unlock only activates after 5 seconds (to avoid misuse)
 - 🧑‍💻 Easy to configure and customizable duration
 - 🪟 Locks Windows workstation for deep focus (uses `LockWorkStation`)
-
+- Author  - Abhinav Pratap Singh
 ---
 
 ## 📂 Project Structure
