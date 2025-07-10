@@ -16,5 +16,3 @@ Focus Lock is a productivity tool designed to **lock your Windows computer scree
 - Author  - Abhinav Pratap Singh
 ---
 
-## 📂 Project Structure
-
